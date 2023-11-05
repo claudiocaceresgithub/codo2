@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    border: 1px solid black;
+    padding: 1%;
+    background-color: grey;
+
+}
+.nav{
+   display: flex;
+   
+}
+.conf{
+    margin-right: 400px ;
+    color: white;
+    font-size: 25px;
+}
+.span{
+    margin-right: 120px;
+    
+}
+.span2{
+    color: white;
+    margin-right: 120px;
+}
+.span3{
+    color: greenyellow;
+}
+
+.section1{
+    padding: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.box-1{
+    border: 1px solid blue;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 2rem;
+    margin-top: 30px;
+}
+
+.box-2{
+    border: 1px solid rgb(51, 255, 0);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    margin: 10px;
+}
+
+.box-3{
+    border: 1px solid rgb(255, 251, 0);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    margin: 10px;
+}
+
+.section2{
+    padding: 1%;
+    text-align: center;
+}
+
+.section3{
+    
+    width: 100%;
+    height: 40px;
+    
+}
+.box-4{
+    width: 100%;
+    height: 40px; 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#nombre{
+    width: 390px;
+    height: 40px;
+    margin: 12px;
+}
+#apellido{
+    width: 390px;
+    height: 40px;
+    margin: 12px;
+}
+.box-5{
+    width: 100%;
+    height: 40px; 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 25px;
+}
+#correo{
+    width: 808px;
+    height: 40px;
+}
+.box-6{
+    width: 100%;
+    height: 40px; 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 25px;
+}
+.box-7{
+    width: 100%;
+    height: 40px; 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 10px;
+}
+
+#cantidad{
+    width: 390px;
+    height: 40px;
+    margin: 12px;
+}
+#categoria{
+    width: 390px;
+    height: 40px;
+    margin: 12px;
+}
+
+.box-8{
+    width: 100%;
+    height: 40px; 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 25px;
+}
+#total{
+    width: 808px;
+    height: 40px;
+    background-color: rgb(132, 222, 244);
+}
+
+.box-9{
+    width: 100%;
+    height: 40px; 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 25px;
+}
+#boton{
+    width: 390px;
+    height: 40px;
+    margin: 12px;
+    background-color:rgb(72, 181, 72) ;
+    color: white;
+
+}
+    #boton2{
+        width: 390px;
+        height: 40px;
+        margin: 12px;
+        background-color:rgb(72, 181, 72) ;
+        color: white;
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    margin-top: 350px;
+padding: 1%;
+background: rgb(34, 91, 162);
+display: flex;
+
+}
+ footer p{
+    margin-right: 70px;
+    margin-left: 130px;
+    color: white;
+ }
